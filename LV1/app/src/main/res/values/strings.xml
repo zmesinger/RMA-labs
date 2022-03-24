@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RMALV1</string>
+    <string name="ime_i_prezime">Ime i prezime</string>
+    <string name="name_and_surname">Name and surname</string>
+    <string name="add_description">Add description</string>
+    <string name="submit">Submit</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (cm)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
 </resources>
